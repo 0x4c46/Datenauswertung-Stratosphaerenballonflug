@@ -1,0 +1,56 @@
+import 'unit.dart';
+
+  List<Unit> preVal = [
+    Unit("Zeit", "t"),
+    Unit("Geschwindigkeit", "v"),
+    Unit("Höhe", "h"),
+    Unit("Temperatur", "T"),
+    Unit("Luftdruck", "p"),
+    Unit("Volumen", "V"),
+    Unit("Radius", "r"),
+    Unit("Frontfläche", "A"),
+    Unit("Luftdichte", "rho"),
+    Unit("cW-Wert", "cw"),
+    Unit("Erdbeschleunigung", "g"),
+    Unit("Auftriebskraft", "FAuftrieb"),
+    Unit("Erdanziehungskraft", "Fg"),
+    Unit("Luftwiderstandskraft", "FLuft"),
+    Unit("Gesamtkraft", "Fges"),
+    Unit("Beschleunigung", "a"),
+  ];
+  List<Unit> stratVal = [
+    Unit("Flugdauer", "t"),
+    Unit("Uhrzeit (UTC)", "UTC"),
+    Unit("Höhe", "h"),
+    Unit("Längengrad", "lon"),
+    Unit("Breitengrad", "lat"),
+    Unit("Geschwindigkeit xy [km/h]", "vkm"),
+    Unit("Geschwindigkeit xy [m/s]", "vxy"),
+    Unit("Geschwindigkeit x-Richtung", "vx"),
+    Unit("Geschwindigkeit y-Richtung", "vy"),
+    Unit("Steiggeschwindigkeit", "vz"),
+    Unit("Richtung", "course"),
+    Unit("Außentemperatur", "exttemp"),
+    Unit("Innentemperatur", "intemp"),
+    Unit("Luftdruck", "extpress"),
+    Unit("Luftfeuchtigkeit", "exthum"),
+  ];
+  List<Unit> ardVal = [
+    Unit("Flugdauer", "t"),
+    Unit("Uhrzeit (UTC)", "UTC"),
+    Unit("Außentemperatur", "exttemp"),
+    Unit("Onbaordtemperatur", "intemp"),
+    Unit("Temperatur Beschleunigungssensor", "incltemp"),
+    Unit("x-Beschleunigung", "ax"),
+    Unit("y-Beschleunigung", "ay"),
+    Unit("Rotation", "rot"),
+    Unit("x-Neigung", "incx"),
+    Unit("y-Neigung", "incy"),
+  ];
+  List<Unit> colors = [
+    Unit("Rot", "r"),
+    Unit("Blau", "b"),
+    Unit("Grün", "g"),
+    Unit("Schwarz", "k"),
+    Unit("Gelb", "y"),
+  ];
