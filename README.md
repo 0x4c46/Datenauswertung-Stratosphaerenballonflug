@@ -61,7 +61,7 @@ Nun werden die einzelnen Datenreihen ausgewählt, die in dem Graphen dargestellt
 
 ![datarow.png](assets/datarow.png)
 
-1. Jede Datenreihe, die verwendet wird muss zuerst aktiviert werden. Hierbei müssen die Datenreihen von links nach rechts verwendet werden, d.h. soll nur eine Datenreihe dargestellt werden, muss die linke Datenreihe verwendet werden, und als zweite die Mittlere.
+1. Jede Datenreihe, die verwendet wird, muss zuerst aktiviert werden. Hierbei müssen die Datenreihen von links nach rechts verwendet werden, d.h. soll nur eine Datenreihe dargestellt werden, muss die linke Datenreihe verwendet werden, und als zweite die Mittlere.
 2. Auswählen, welche Art von Messwerte verwendet werden.
 3. Datei auswählen, aus der die Messwerte entnommen werden sollen. Die ausgewählte Datei muss vorher mit diesem Programm formatiert worden sein. Ist eine Datei ausgewählt, erscheint ein grüner Haken.
 4. Beschriftung der Datenreihe, die in der Legende angezeigt wird.
